@@ -13,7 +13,6 @@ void MuestraArreglo(int,int[]);
 
 int main()
 {
-
     int n;
     cout << "---ALGORITMO DE ORDENAMIENTO QUICKSORT -- " <<endl;
     cout << "\nNUMERO DE DATOS A LEER: ";
